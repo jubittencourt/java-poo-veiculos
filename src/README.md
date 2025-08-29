@@ -17,9 +17,4 @@ O sistema simula diferentes tipos de veículos (**Carro, Moto e Caminhão**) e d
 - Java JDK 8 ou superior
 - Git
 
-### Passos
-
-1. Clonar o repositório:  
-```bash
-git clone https://github.com/SEU-USUARIO/java-poo-veiculos.git
 
